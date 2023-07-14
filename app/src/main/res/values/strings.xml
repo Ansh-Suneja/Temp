@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tempConverter</string>
+    <string name="appHeading" />
+    <string name="Faherenheit">Faherenheit</string>
+    <string name="textRes">0.0</string>
+    <string name="textRestype">Celsius</string>
+
+</resources>
